@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI",
+  "description": "Enterprise-grade cybersecurity intelligence dashboard with real-time cyber scan detection, URL threat forensics, and scan telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
